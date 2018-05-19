@@ -48,7 +48,8 @@ public class CityActivity extends AppCompatActivity implements TextWatcher{
     private TextView showResult; // 用户显示查询结果
     HttpURLConnection httpConn=null;
     InputStream din =null;
-
+    //aaaa
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
