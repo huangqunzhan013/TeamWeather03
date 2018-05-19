@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/privince" android:title="省或市天气信息"/>
+    <item android:id="@+id/city" android:title="市未来五天天气信息"/>
+    <item android:id="@+id/logo" android:title="Logo"/>
+</menu>
